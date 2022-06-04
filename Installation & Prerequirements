@@ -16,3 +16,5 @@ sudo apt install code
 pip install django
 go to extenstion in visual studio code and install django and python
 ~/Desktop/learndjango$ django-admin startproject Hello
+run server
+python manage.py runserver
